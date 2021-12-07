@@ -1,2 +1,2 @@
 # tindogsite.github.io
-Tindog
+A Doggie 'Dating' Website made with BOOTSTRAP HTML and CSS
